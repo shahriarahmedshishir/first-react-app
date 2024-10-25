@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "question": "What is the purpose of the HTTP protocol in web development?",
+        "description": "The Hypertext Transfer Protocol (HTTP) is a foundational technology for the web. It governs the communication between a web browser (client) and a web server, allowing the exchange of data like HTML files, images, and more. Understanding HTTP is crucial for building efficient, secure web applications that follow the request-response cycle."
+    },
+    {
+        "id": 2,
+        "question": "What are the key differences between HTML and CSS?",
+        "description": "HTML (Hypertext Markup Language) structures the content of web pages, including elements like headings, paragraphs, and links. CSS (Cascading Style Sheets) is used to control the presentation, including layout, colors, and fonts. While HTML handles the structure, CSS focuses on the visual styling, making the website more appealing and user-friendly."
+    },
+    {
+        "id": 3,
+        "question": "How do client-side and server-side scripting differ?",
+        "description": "Client-side scripting runs in the browser, interacting directly with the user interface, while server-side scripting runs on the server, handling data storage and application logic. Client-side scripts (e.g., JavaScript) affect the webpage’s look and behavior, while server-side scripts (e.g., PHP, Node.js) handle requests and data processing, making dynamic content possible."
+    },
+    {
+        "id": 4,
+        "question": "What are some common security concerns in web development?",
+        "description": "Web security is vital to protect applications from attacks. Common issues include Cross-Site Scripting (XSS), where attackers inject malicious scripts into webpages, and Cross-Site Request Forgery (CSRF), where unauthorized commands are sent from a user. Understanding these vulnerabilities and applying mitigation techniques, like input validation and using secure authentication, is crucial for safeguarding web applications."
+    }
+]
